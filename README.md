@@ -1,4 +1,6 @@
 # Ex01 Portfolio
+## Name:Karthik G.
+## Reg No:212223220043
 ## Date:02.02.2026
 
 ## AIM
